@@ -1,3 +1,10 @@
+- [AWK](#awk)
+    - [Introdução](#introducao)
+    - [AWK vs. CUT e SED](#awk-vs-cut-e-sed)
+    - [Sintaxe](#sintaxe)
+    - [Exercícios:](#exercicios)
+- [Desafio](#desafio)
+- 
 # AWK
 ---
 
